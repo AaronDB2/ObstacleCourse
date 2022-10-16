@@ -57,10 +57,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Mover.cs" />
+    <Compile Include="Assets\Scripts\FallingObject.cs" />
     <Compile Include="Assets\Scripts\OnHit.cs" />
     <Compile Include="Assets\Scripts\Scorekeeper.cs" />
     <Compile Include="Assets\Input Systems\InputMaster.cs" />
-    <Compile Include="Assets\Scripts\FallingObject.cs" />
+    <Compile Include="Assets\Scripts\Rotate.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
